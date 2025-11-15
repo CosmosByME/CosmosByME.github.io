@@ -1,0 +1,16 @@
+body {
+    background-color: #0f1020;
+    font-family:'Lucida Sans','Lucida Grande',Verdana,sans-serif;
+}
+a {
+    color: #4a84ff;
+}
+h1, h2 {
+    color: #f7c873;
+}
+p, ul, ol, label, td {
+    color: #d4d7dd;
+}
+b {
+    color: #ffdd85;
+}
